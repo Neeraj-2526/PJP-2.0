@@ -33,6 +33,10 @@ vii) Create pull request
 
 viii) git Checkout file_name
 
+ix) git rebase <branch or commit hash>
+x) git rebase -i <branch or commit hash>
+xi) git branch -f <source branch> <destination branch or commit hash>
+
 
 
  
