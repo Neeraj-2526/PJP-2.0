@@ -1,1 +1,1 @@
-Each Assignment is in different Folder
+Each Assignment is in different folder
