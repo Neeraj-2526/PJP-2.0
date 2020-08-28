@@ -1,0 +1,16 @@
+pipeline {
+   agent any
+   
+   tools{
+        jdk 'JDK8'
+    }
+
+   stages {
+      stage('DateTime'){
+            steps{
+                git branch: 'Week2',
+                url: 'https://github.com/Neeraj-2526/PJP-2.0'
+            }
+        }
+   }
+}
