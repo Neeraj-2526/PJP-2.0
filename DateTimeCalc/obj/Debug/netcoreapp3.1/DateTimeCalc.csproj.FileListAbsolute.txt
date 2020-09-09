@@ -1,0 +1,13 @@
+/home/neeraj/visual code workspace/DateTimeCalc/bin/Debug/netcoreapp3.1/DateTimeCalc
+/home/neeraj/visual code workspace/DateTimeCalc/bin/Debug/netcoreapp3.1/DateTimeCalc.deps.json
+/home/neeraj/visual code workspace/DateTimeCalc/bin/Debug/netcoreapp3.1/DateTimeCalc.runtimeconfig.json
+/home/neeraj/visual code workspace/DateTimeCalc/bin/Debug/netcoreapp3.1/DateTimeCalc.runtimeconfig.dev.json
+/home/neeraj/visual code workspace/DateTimeCalc/bin/Debug/netcoreapp3.1/DateTimeCalc.dll
+/home/neeraj/visual code workspace/DateTimeCalc/bin/Debug/netcoreapp3.1/DateTimeCalc.pdb
+/home/neeraj/visual code workspace/DateTimeCalc/obj/Debug/netcoreapp3.1/DateTimeCalc.csprojAssemblyReference.cache
+/home/neeraj/visual code workspace/DateTimeCalc/obj/Debug/netcoreapp3.1/DateTimeCalc.AssemblyInfoInputs.cache
+/home/neeraj/visual code workspace/DateTimeCalc/obj/Debug/netcoreapp3.1/DateTimeCalc.AssemblyInfo.cs
+/home/neeraj/visual code workspace/DateTimeCalc/obj/Debug/netcoreapp3.1/DateTimeCalc.csproj.CoreCompileInputs.cache
+/home/neeraj/visual code workspace/DateTimeCalc/obj/Debug/netcoreapp3.1/DateTimeCalc.dll
+/home/neeraj/visual code workspace/DateTimeCalc/obj/Debug/netcoreapp3.1/DateTimeCalc.pdb
+/home/neeraj/visual code workspace/DateTimeCalc/obj/Debug/netcoreapp3.1/DateTimeCalc.genruntimeconfig.cache
