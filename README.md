@@ -1,1 +1,1 @@
-Assignments are in Week Branches
+All assignments are in Different Week Branches
